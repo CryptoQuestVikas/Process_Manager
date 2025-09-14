@@ -1,8 +1,8 @@
-# Real-Time Process Manager
+# Process_Manager(Real-Time Process Manager)
 
 A production-quality, cross-platform system resource monitor and task manager built with Python, PySide6, psutil, and pyqtgraph.
 
-![Screenshot](https://i.imgur.com/gK6yM9G.png)
+
 ![](img/1.png)
 ![](img/2.png)
 ![](img/3.png)
@@ -41,7 +41,7 @@ A production-quality, cross-platform system resource monitor and task manager bu
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/CryptoQuestVikas/Process_Manager>
     cd process_manager
     ```
 
