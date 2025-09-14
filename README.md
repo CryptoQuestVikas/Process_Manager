@@ -83,7 +83,7 @@ You can create a standalone executable using **PyInstaller**.
 
 2.  **Build the executable:**
     ```bash
-    pyinstaller --onefile --windowed --name "ProcessManager" main.py
+    pyinstaller --onefile --windowed --name "Process_Manager" main.py
     ```
     The final executable will be located in the `dist` folder.
 
