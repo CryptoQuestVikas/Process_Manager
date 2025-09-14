@@ -41,7 +41,7 @@ A production-quality, cross-platform system resource monitor and task manager bu
 
 1.  **Clone the repository:**
     ```bash
-    git clone <https://github.com/CryptoQuestVikas/Process_Manager>
+    git clone https://github.com/CryptoQuestVikas/Process_Manager
     cd process_manager
     ```
 
