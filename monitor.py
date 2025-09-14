@@ -1,5 +1,3 @@
-# process_manager/monitor.py
-
 import time
 from typing import Dict, Any, List
 import psutil
