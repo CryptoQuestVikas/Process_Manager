@@ -1,11 +1,8 @@
-# Process_Manager (Real-Time Process_Manager)
+# Real-Time Process Manager
 
 A production-quality, cross-platform system resource monitor and task manager built with Python, PySide6, psutil, and pyqtgraph.
 
-# Screenshot
-![](img/1.png)
-![](img/2.png)
-![](img/3.png)
+![Screenshot](https://i.imgur.com/gK6yM9G.png)
 *(Note: A representative screenshot would go here in a real project repository.)*
 
 ## Features
