@@ -1,5 +1,3 @@
-# process_manager/ui.py (with Export to CSV feature)
-
 import sys
 import time
 import csv
