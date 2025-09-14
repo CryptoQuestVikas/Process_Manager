@@ -2,7 +2,9 @@
 
 A production-quality, cross-platform system resource monitor and task manager built with Python, PySide6, psutil, and pyqtgraph.
 
-![Screenshot](https://i.imgur.com/gK6yM9G.png)
+![Screenshot](img/1.png)
+![Screenshot](img/2.png)
+![Screenshot](img/3.png)
 *(Note: A representative screenshot would go here in a real project repository.)*
 
 ## Features
