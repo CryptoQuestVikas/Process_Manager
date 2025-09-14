@@ -1,5 +1,3 @@
-# process_manager/gpu_monitor.py
-
 from typing import List, Dict, Any
 
 from utils import log
