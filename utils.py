@@ -1,5 +1,3 @@
-# process_manager/utils.py
-
 import logging
 from logging.handlers import RotatingFileHandler
 import sys
