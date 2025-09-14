@@ -1,0 +1,4 @@
+PySide6==6.7.0
+psutil==5.9.8
+pyqtgraph==0.13.4
+nvidia-ml-py==12.535.133.01
